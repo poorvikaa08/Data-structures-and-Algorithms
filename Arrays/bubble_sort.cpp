@@ -7,7 +7,7 @@ void bubbleSort(vector<int>& arr) {
     int n = arr.size();
     bool swapped;
 
-    // Traverse through all array elements
+    // Traverse through all array element
     for (int i = 0; i < n - 1; i++) {
         swapped = false;
 
